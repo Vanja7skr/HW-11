@@ -1,0 +1,12 @@
+.toi {
+    width: 350px;
+    height: 220px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border: red dotted 2px;
+    background-color: green;
+    margin-top: 0px;
+}
